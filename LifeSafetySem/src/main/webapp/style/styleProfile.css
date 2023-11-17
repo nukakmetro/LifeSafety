@@ -1,0 +1,14 @@
+.gridColums {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-column-gap: 1em;
+}
+.centerColums {
+    text-align: center;
+}
+.input-group {
+    text-align: center;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    width: calc(100% - 100px);
+}

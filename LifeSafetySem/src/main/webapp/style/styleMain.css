@@ -1,0 +1,11 @@
+.gridColums{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-column-gap: 1em;
+}
+.post{
+    border: 10px solid #56382d;
+}
+a {
+    text-decoration: none; /* Убрать подчеркивание у всех гиперссылок */
+}
